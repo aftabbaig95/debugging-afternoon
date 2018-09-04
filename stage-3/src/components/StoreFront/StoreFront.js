@@ -29,7 +29,7 @@ class StoreFront extends Component {
         )
     }
 }
-
+ 
 function mapStateToProps(state) {
     return {
         products: state.products,
